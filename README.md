@@ -8,12 +8,12 @@ Office 365 Education provides educators and students with powerful tools like Wo
 
 **Table of Contents:**
 
-1. [Prerequisites](#prerequisites)
-2. [Sign Up for Office 365 Education](#sign-up-for-office-365-education)
-3. [Administering Office 365 Education](#administering-office-365-education)
-4. [Setting Up Office 365 Education](#setting-up-office-365-education)
-5. [Configuring DNS Records](#configuring-dns-records)
-6. [FAQ](#faq)
+1. [Prerequisites](#prerequisites-)
+2. [Sign Up for Office 365 Education](#sign-up-for-office-365-education-)
+3. [Administering Office 365 Education](#administering-office-365-education-)
+4. [Setting Up Office 365 Education](#setting-up-office-365-education-)
+5. [Configuring DNS Records](#configuring-dns-records-)
+6. [FAQ](#faq-)
 
 ## Prerequisites 📋
 
