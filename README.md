@@ -65,9 +65,9 @@ To ensure smooth email and application functionality, you need to configure the 
 
 | Record Type | Name (Host)   | Value (Destination)         | Priority (if applicable) |
 |-------------|---------------|-----------------------------|---------------------------|
-| MX          | Your domain   | outlook.office365.com       | 0 (for the primary record) |
-| MX          | Your domain   | yourdomain-com.mail.protection.outlook.com | 10 (for secondary records) |
-| TXT         | Your domain   | v=spf1 include:spf.protection.outlook.com -all | N/A                       |
+| MX          | @   | outlook.office365.com       | 0 (for the primary record) |
+| MX          | @   | yourdomain-com.mail.protection.outlook.com | 10 (for secondary records) |
+| TXT         | @   | v=spf1 include:spf.protection.outlook.com -all | N/A                       |
 | CNAME       | Autodiscover  | autodiscover.outlook.com   | N/A                       |
 
 Make sure to replace "Your domain" with your actual domain name.
