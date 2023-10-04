@@ -85,3 +85,18 @@ A: If you are already using Office 365 and want to switch to Office 365 Educatio
 
 ---
 
+## About This Repository 📚
+
+This repository is maintained by Kamrul Hossain. We are committed to making educational information in Bangladesh more accessible.
+
+**Explore the World of Premier Business Email Services and Support in Bangladesh** 🌐
+
+**Brought to You by Expert Kamrul Hossain** 👨‍💼
+
+[Connect with Kamrul Hossain on Facebook](https://www.facebook.com/EliteKamrul) 🌐
+
+Happy emailing with Zoho Mail! 📧🚀
+
+---
+
+
